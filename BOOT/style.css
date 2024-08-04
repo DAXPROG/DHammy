@@ -117,10 +117,10 @@ color: #ff4d29;
 /* SLIDER */
 
 .slide1{
-background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)),  url('images/im1.jpg');
+background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)),  url('../images/im1.jpg');
 }
 .slide2{
-background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)),  url('images/im2.jpg');
+background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)),  url('../images/im2.jpg');
 }
 
 /* OWL CAROUSEL */
@@ -181,7 +181,7 @@ section {
 /* MILESTONE */
 
 #milestone{
-    background: linear-gradient(hsla(10, 100%, 58%, 0.9), hsla(10, 100%, 58%, 0.9)),  url('images/im3.jpg');
+    background: linear-gradient(hsla(10, 100%, 58%, 0.9), hsla(10, 100%, 58%, 0.9)),  url('../images/im3.jpg');
     font-family: arial;
 }
 #milestone .display-4,
@@ -302,7 +302,7 @@ section {
 
 /* REVIEWS */
 #reviews{
-    background: linear-gradient(rgba(9, 32, 50, 0.8), rgba(9, 32, 50, 0.8)),  url('images/samii.jpg');
+    background: linear-gradient(rgba(9, 32, 50, 0.8), rgba(9, 32, 50, 0.8)),  url('../images/samii.jpg');
 }
 .review{
     max-width: 900px;
@@ -367,7 +367,7 @@ footer {
     color: #ffffff;
     padding-top: 80px;
     text-align: center;
-    background: linear-gradient(rgba(9, 32, 50, 0.8), rgba(9, 32, 50, 0.8)),  url('images/suma.jpg');
+    background: linear-gradient(rgba(9, 32, 50, 0.8), rgba(9, 32, 50, 0.8)),  url('../images/suma.jpg');
 }
 
 footer .navbar-brand {
